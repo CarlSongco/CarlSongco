@@ -14,6 +14,7 @@ I am passionate about coding and adept at managing databases. I love diving into
   - New Era University (2021-Present)
 
 ## Certifications
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/1d873f1a7d4340ccbb47925605bf10e9)
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DFAFB497586F5DC3DAFBBAC54A77F1E8F335B55753D94B230AB0D1E9F0CF99D&fbclid=IwAR2JLKMMwUcteKM2Nqr3WTFCbvThZRXzW3iUQrb7Nkw1SI7xmRCWUKGoU3s)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D67EAAA4A85D893C0D3A3056293BCA7B9CDB66BDE5E39DC2632181D0B2F11A21&fbclid=IwAR0rLgWbQRB3t9Pr-NTCtpzzSyO3ymg49Gw9VQPVE9EP-PZZdmDLXJcUJ5c)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD8556E0D84928F92AE83F43324464946F75819D8AD50B592570C7F16117408B&fbclid=IwAR0rLgWbQRB3t9Pr-NTCtpzzSyO3ymg49Gw9VQPVE9EP-PZZdmDLXJcUJ5c)
